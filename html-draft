@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JLR Corporate Website</title>
+</head>
+<body>
+<header id="header">
+<img id="header-img" src=alt="JLR Logo">
+<nav id="nav-bar">
+<a class="nav-link">Company</a>
+<a class="nav-link">Brands</a>
+<a class="nav-link">Innovation</a>
+<a class="nav-link">Corporate Responsibility</a>
+<a class="nav-link">People</a>
+<a class="nav-link">Investor Relations</a>
+<a class="nav-link">Media</a>
+</nav>
+</header>
+
+
+
+
+
+

@@ -5,7 +5,7 @@
 </head>
 <body>
 <header id="header">
-<img id="header-img" src=alt="JLR Logo">
+<img id="header-img" src="header-img" src="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_zbynjiww/def_height/2700/def_width/2700/version/100012/type/1" alt="JLR Logo">
 <nav id="nav-bar">
 <a class="nav-link">Company</a>
 <a class="nav-link">Brands</a>

@@ -16,6 +16,18 @@
 <a class="nav-link">Media</a>
 </nav>
 </header>
+<main id="main"> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1 id="title"> Destination Zero </h1>
+<br>
+  <div id="text">"Today, we are transforming for tomorrow. Our vision is a world of sustainable, smart mobility: Destination Zero. We are driving towards a future of zero emissions, zero accidents and zero congestion – even zero waste. We seek conscious reductions, embracing the circular economy and giving back to society."</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3fNA4Ee1PDE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <br>
+  <br>
 
 
 

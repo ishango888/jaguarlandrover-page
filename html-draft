@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JLR Corporate Website</title>
+</head>
+<body>
+<header id="header">
+<img id="header-img" src="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_zbynjiww/def_height/2700/def_width/2700/version/100012/type/1" alt="JLR Logo">
+<nav id="nav-bar">
+<a class="nav-link">Company</a>
+<a class="nav-link">Brands</a>
+<a class="nav-link">Innovation</a>
+<a class="nav-link">Corporate Responsibility</a>
+<a class="nav-link">People</a>
+<a class="nav-link">Investor Relations</a>
+<a class="nav-link">Media</a>
+</nav>
+</header>
+<main id="main"> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img src= "https://i.pinimg.com/originals/b7/ac/04/b7ac044ddc6fbb194742a4f339d38505.jpg" alt = "Destination Zero">
+<h1 id="title"> Destination Zero </h1>
+<h2 id="text">"Today, we are transforming for tomorrow. Our vision is a world of sustainable, smart mobility: Destination Zero. We are driving towards a future of zero emissions, zero accidents and zero congestion – even zero waste. We seek conscious reductions, embracing the circular economy and giving back to society."</h2>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/3fNA4Ee1PDE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <br>
+  <br>
+  </main>
+
+
+
+
+

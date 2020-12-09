@@ -40,3 +40,10 @@ body
   font-family:"Work Sans";
   font-size:100;
   font-weight:70;}
+  
+#footer{
+background-color:white;
+font-family:"Work Sans";
+display:flex;
+}
+
